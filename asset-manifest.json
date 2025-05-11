@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/RamdevGraphics/static/js/main.7fe18d18.js",
+    "static/js/453.3ac04f5a.chunk.js": "/RamdevGraphics/static/js/453.3ac04f5a.chunk.js",
+    "static/media/img2.jpg": "/RamdevGraphics/static/media/img2.e0ebf7c33425e63ff877.jpg",
+    "static/media/img4.jpg": "/RamdevGraphics/static/media/img4.c6234c468963db245fc3.jpg",
+    "static/media/img1.jpg": "/RamdevGraphics/static/media/img1.433b298124f9f81fc063.jpg",
+    "static/media/img3.jpg": "/RamdevGraphics/static/media/img3.ec329e8b9b78f8458ba0.jpg",
+    "static/media/img9.jpeg": "/RamdevGraphics/static/media/img9.49e3fa5cebc1c389a627.jpeg",
+    "static/media/logo.png": "/RamdevGraphics/static/media/logo.9de5585f5c60732d33e8.png",
+    "static/media/img5.jpeg": "/RamdevGraphics/static/media/img5.ab4ecdd12ca9c607e264.jpeg",
+    "static/media/img8.jpeg": "/RamdevGraphics/static/media/img8.641d6fc43a198bd8bba3.jpeg",
+    "static/media/img6.jpeg": "/RamdevGraphics/static/media/img6.385c61eab6de9f602c2c.jpeg",
+    "static/media/img7.jpeg": "/RamdevGraphics/static/media/img7.ef30b33f5f79280e28ae.jpeg",
+    "index.html": "/RamdevGraphics/index.html",
+    "main.7fe18d18.js.map": "/RamdevGraphics/static/js/main.7fe18d18.js.map",
+    "453.3ac04f5a.chunk.js.map": "/RamdevGraphics/static/js/453.3ac04f5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7fe18d18.js"
+  ]
+}
